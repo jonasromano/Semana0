@@ -1,0 +1,28 @@
+{
+    "Acessorios":[{
+        "Reloj 1":[{
+            "Color":"Negro",
+            "Talle":"M"
+        }],
+        "Reloj 2":[{
+            "Color":"Rojo",
+            "Talle":"M"
+        }],
+        "Pulsera":[{
+            "Color":"Plata",
+            "Talle":"M"
+        }]
+    }
+  ],
+  "Calzados":[{
+      "Zapatito 1":[{
+          "Color":"Azul",
+          "Talle":"39"
+      }],
+      "Zapatito 2":[{
+          "Color":"Beig",
+          "Talle":"36"
+      }]
+  }]
+}
+
