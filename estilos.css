@@ -1,0 +1,20 @@
+body {
+    background-image: url("file:///C:/Users/jonas/Desktop/desarrollo%20web/ClothingShop/image.jpg");
+    
+}
+
+h1{
+    color:rebeccapurple;
+    text-align: center;
+    background-color: greenyellow;
+}
+
+h2{
+    color:purple;
+    background-color: aqua;
+    text-align: center;
+}
+h3 {
+    background-color: rgb(26, 181, 243);
+}
+
